@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Hello, it's funkt()" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        Full website coming soon!
         </p>
       </main>
 
