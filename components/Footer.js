@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        design@funkt.xyz | space@funkt.xyz
+        funkt.xyz
       </footer>
     </>
   )
