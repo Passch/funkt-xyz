@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Hello, it's funkt()" />
+        <Header title="Great things coming soon." />
         <p className="description">
-        Full website coming soon!
+        funkt.xyz
         </p>
       </main>
 
