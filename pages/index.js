@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Hello, it's funkt()" />
         <p className="description">
-        We will be celebrating the lauch of out new site very soon! 
+        We will be celebrating the lauch of our new site very soon! 
         </p>
       </main>
 
